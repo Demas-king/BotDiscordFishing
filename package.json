@@ -1,0 +1,13 @@
+{
+  "name": "nakos-fishing-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord mancing (prefix n) - ekonomi, ikan, rod, kapal, pulau",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "discord.js": "^14.22.0"
+  }
+}
